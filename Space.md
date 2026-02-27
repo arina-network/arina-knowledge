@@ -1,4 +1,0 @@
-# Space
-## Attributes
-* Name
-* Description
