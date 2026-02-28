@@ -1,6 +1,4 @@
 # entity Reference
-## Implements
-* [Structure](https://github.com/arina-network/arina-knowledge/blob/add-data-types/core/Structure.md)
 ## Attributes
 * Code, text
 * Name, text
@@ -8,4 +6,4 @@
 * Required, boolean
 * Obsolete, boolean
 ## References
-* Entity, [Data Type](https://github.com/arina-network/arina-knowledge/blob/add-data-types/logic/Entity.md) 
+* Entity, [Entity](https://github.com/arina-network/arina-knowledge/blob/add-data-types/logic/Entity.md) 
