@@ -1,5 +1,7 @@
 # entity Task
 ## Attributes:
+* Name, text
+* Source, text
 * Started, Date and Time
 * Finished, Date and Time 
 ## References:
