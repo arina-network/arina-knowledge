@@ -6,4 +6,6 @@
 * Description, text
 * Source, text
 ## Parts:
-* Process
+* Input
+* Output
+* [Process](https://github.com/arina-network/arina-knowledge/edit/add-core-processes/core/Process.md)
