@@ -1,6 +1,4 @@
 # entity Attribute
-## Implements
-* [Structure](https://github.com/arina-network/arina-knowledge/blob/add-data-types/core/Structure.md)
 ## Attributes
 * Code, text
 * Name, text
