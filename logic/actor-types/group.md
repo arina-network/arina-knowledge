@@ -1,0 +1,2 @@
+# actor type Group
+- group
