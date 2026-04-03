@@ -11,4 +11,3 @@
 ## attributes:
 * Name, text
 * Description, text
-* Source, text

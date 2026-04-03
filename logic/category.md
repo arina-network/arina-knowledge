@@ -1,7 +1,10 @@
 # entity Category
-## Attributes:
-* Code, text
-* Name, text
-* Description, text
-## Parts:
-* [Category](https://github.com/arina-network/arina-knowledge/blob/add-data-types/logic/Category.md)
+## containers:
+- [Model](/logic/model.md)
+- [Category](/logic/category.md)
+## parts:
+- [Category](/logic/category.md)
+## attributes:
+- Name, text
+- Description, text
+ 

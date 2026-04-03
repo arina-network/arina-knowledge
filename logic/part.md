@@ -1,5 +1,5 @@
-# entity Implement
+# entity Part
 ## containers:
 - [Entity](/logic/entity.md)
 ## attributes:
-- Entity, [Entity](/logic/entity.md)
+- [Entity](/logic/entity.md)

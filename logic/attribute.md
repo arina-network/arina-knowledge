@@ -1,13 +1,15 @@
 # entity Attribute
-## Attributes
-* Code, text
-* Name, text
-* Source, text
-* Length, integer
-* Min Length, integer
-* Max Length, integer
-* Required, boolean
-* Default, text
-* Obsolete, boolean
-## References
-* Data Type, [Data Type](https://github.com/arina-network/arina-knowledge/blob/add-data-types/logic/DataType.md)
+## containers:
+- [Entity](/logic/entity.md)
+## attributes:
+- Name, text
+- Description, text
+- Data Type, [Data Type](/logic/data-type.md)
+- Length, integer
+- Min Length, integer
+- Max Length, integer
+- Entity, [Entity](/logic/entity.md)
+- is Required, boolean
+- is List, boolean
+- Default Value
+- is Obsolete, boolean

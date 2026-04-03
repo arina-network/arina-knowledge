@@ -1,6 +1,7 @@
 # entity Constant
-## Attributes
-* Code, text
-* Name, text
-* Description, text
-* Source, text
+## containers:
+- [Model](/logic/model.md)
+## attributes:
+- Name, text
+- Description, text
+- Value
