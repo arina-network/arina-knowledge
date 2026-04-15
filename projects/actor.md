@@ -1,11 +1,11 @@
 # entity Actor
 ## implements:
-- [Structure](/world/structure.md)
+- [logic.Actor](/logic/actor.md)
 ## containers:
 - [Model](/logic/model.md)
-- [Actor](/logic/actor.md)
+- [Actor](/projects/actor.md)
 ## parts:
-- [Actor](/logic/actor.md)
+- [Actor](/projects/actor.md)
 ## attributes:
 - [Actor Type](/projects/actor-type.md)
 - Name, text

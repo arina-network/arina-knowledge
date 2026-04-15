@@ -1,6 +1,6 @@
 # entity Acceptance Criteria
 ## containers
-- [Actor Story](/logic/actor-story.md)
+- [Process](/logic/process.md)
 ## attributes:
 - Given, text
 - When, text
