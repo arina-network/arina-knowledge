@@ -1,13 +1,13 @@
 # entity Process
 ## implements:
-* [Space](/world/space.md)
+- [Space](/world/space.md)
 ## containers:
-* [Space](/world/space.md)
-* [Process](/world/process.md)
+- [Space](/world/space.md)
+- [Process](/world/process.md)
 ## parts:
-* [Input](/world/input.md)
-* [Output](/world/output.md)
-* [Process](/world/process.md)
+- [Input](/world/input.md)
+- [Output](/world/output.md)
+- [Process](/world/process.md)
 ## attributes:
-* Name, text
-* Description, text
+- Name, text
+- Description, text

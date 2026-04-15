@@ -1,7 +1,7 @@
 # entity Output
 ## containers:
-* [Process](/world/process.md)
+- [Process](/world/process.md)
 ## attributes:
-* Name, text
-* is Required, boolean
-* Value, [Structure](/world/structure.md)
+- Name, text
+- is Required, boolean
+- Value, [Structure](/world/structure.md)
