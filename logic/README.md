@@ -11,9 +11,7 @@
 - [Constant](/logic/constant.md)
 ### Actor
 - [Actor](/logic/actor.md) 
-- [Actor Type](/logic/actor-type.md) 
 - [Actor Story](/logic/actor-story.md) 
-- [Acceptance Criteria](/logic/acceptance-criteria.md) 
 ### Entity
 - [Entity](/logic/entity.md)
 - [Implement](/logic/implement.md)
@@ -22,4 +20,6 @@
 - [Attribute](/logic/attribute.md)
 - [Data Type](/logic/data-type.md)
 ### Process
+- [Process](/logic/process.md)
 - [Process Result](/logic/process-result.md)
+- [Acceptance Criteria](/logic/acceptance-criteria.md) 

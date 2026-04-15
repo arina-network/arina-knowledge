@@ -1,6 +1,6 @@
 # entity Entity
 ## implements:
-- [Structure](/core/structure.md)
+- [Structure](/world/structure.md)
 ## containers:
 - [Model](/logic/model.md)
 ## parts:

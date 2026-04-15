@@ -1,13 +1,14 @@
 # entity Process
 ## implements:
-- [Core.Process](/core/process.md)
+- [world.Process](/world/process.md)
 ## containers:
 - [Model](/logic/model.md)
 - [Process](/logic/process.md)
 ## parts:
-* [Input](/core/input.md)
-* [Output](/core/output.md)
+* [Input](/world/input.md)
+* [Output](/world/output.md)
 * [Process](/logic/process.md)
+* [Acceptance Criteria](/logic/acceptance-criteria.md)
 ## attributes:
 - Name, text
 - Description, text

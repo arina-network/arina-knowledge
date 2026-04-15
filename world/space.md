@@ -1,9 +1,9 @@
 # entity Space
 ## containers:
-* [Space](/core/space.md)
+* [Space](/world/space.md)
 ## parts:
-* [Space](/core/space.md)
+* [Space](/world/space.md)
 ## attributes:
-* [Time](/core/time.md)
+* [Time](/world/time.md)
 * Name, text 
 * Description, text
