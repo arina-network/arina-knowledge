@@ -23,9 +23,15 @@ Rather than describing software implementations, the models describe the busines
 
 ## [Articles](/artilces)
 
+### Knowledge Engineering
 - [Knowledge as Code. In English. With Math.](https://github.com/arina-network/arina-knowledge-guide/blob/main/articles/software-engineering/knowledge-as-code-en.md)
 - [Knowledge Base as a GitHub Repository? Why Not!](https://github.com/arina-network/arina-knowledge-guide/blob/main/articles/software-engineering/knowledge-base-as-github-repository-en.md)
 - [Confluence and Notion are outdated. Treat Knowledge as Code in Git.](/articles/treat-knowledge-as-code-in-git-en.md)
+
+### Semantic Models
+- [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
+- [Evolution of Verbs: from Signals to Hierarchical Processes](/articles/evolution-of-verbs-en.md)
+- [Adjectives and Adverbs: Evolution of Categorization](/articles/evolution-of-categorization-en.md)
 
 ## [Guides](/guides)
 
@@ -47,7 +53,6 @@ Rather than describing software implementations, the models describe the busines
 ### Communication Theory
 - [World](/models/world)
 - [Text](/models/text)
-
 
 
 ## Tools
