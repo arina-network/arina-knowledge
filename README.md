@@ -24,8 +24,8 @@ Rather than describing software implementations, the models describe the busines
 ## [Articles](/articles)
 
 ### Knowledge Engineering
-- [Knowledge as Code. In English. With Math.](https://github.com/arina-network/arina-knowledge-guide/blob/main/articles/software-engineering/knowledge-as-code-en.md)
-- [Knowledge Base as a GitHub Repository? Why Not!](https://github.com/arina-network/arina-knowledge-guide/blob/main/articles/software-engineering/knowledge-base-as-github-repository-en.md)
+- [Knowledge as Code. In English. With Math.](/articles/knowledge-as-code-en.md)
+- [Knowledge Base as a GitHub Repository? Why Not!](/articles/knowledge-base-as-github-repository-en.md)
 - [Confluence and Notion are outdated. Treat Knowledge as Code in Git.](/articles/treat-knowledge-as-code-in-git-en.md)
 
 ### Semantic Models
@@ -57,5 +57,5 @@ Rather than describing software implementations, the models describe the busines
 
 ## Tools
 - [Git Guide](https://github.com/git-guides) - git, version control system
-- [GitHub Docs](https://docs.github.com/) - github, cloud-based service for VCS
-- [Markdown Guide](https://www.markdownguide.org/) - markdown, text formatting
+- [GitHub Docs](https://docs.github.com/) - GitHub, cloud-based service for VCS
+- [Markdown Guide](https://www.markdownguide.org/) - Markdown, text formatting
