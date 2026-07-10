@@ -21,7 +21,7 @@ When knowledge lives in Markdown files inside a Git repository, it automatically
 Semantic models are an open, technology-independent way to describe knowledge in a structured, human-friendly and machine-readable way.
 Rather than describing software implementations, the models describe the business domain itself — its processes, entities, categories and spaces. Because every concept and relationship is explicit, knowledge can be versioned, validated, searched, analyzed, and transformed into software systems.
 
-## [Articles](/artilces)
+## [Articles](/articles)
 
 ### Knowledge Engineering
 - [Knowledge as Code. In English. With Math.](https://github.com/arina-network/arina-knowledge-guide/blob/main/articles/software-engineering/knowledge-as-code-en.md)
