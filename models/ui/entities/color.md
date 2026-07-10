@@ -1,6 +1,6 @@
 # entity Color
 ## implements: 
-- [Structure](/core/Structure.md)
+- [Structure](/models/world/entities/structure.md)
 ## attributes:
 - Red, integer, min is 0, max is 255  
 - Green, integer, min is 0, max is 255

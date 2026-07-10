@@ -1,6 +1,6 @@
 # entity Icon
 ## implements: 
-- [Structure](/core/Structure.md)
+- [Structure](/models/world/entities/structure.md)
 ## attributes:
 - Data, image
 - Url, url

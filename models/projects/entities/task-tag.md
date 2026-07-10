@@ -1,4 +1,4 @@
-# entity Task Label
+# entity Task Tag
 ## Attributes
 * Name, text
 * Description, text

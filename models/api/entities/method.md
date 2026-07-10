@@ -2,7 +2,7 @@
 ## implements:
 - [Process](/models/world/entities/process.md)
 ## containers:
-- [Service](/models/apiels/api/service.md)
+- [Service](/models/api/entities/service.md)
 ## parts:
 - [Input](/models/world/entities/input.md)
 - [Output](/models/world/entities/output.md)

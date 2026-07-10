@@ -2,9 +2,9 @@
 ## implements:
 - [Structure](/models/world/entities/structure.md)
 ## containers:
-- [Namespace](/models/apiels/api/namespace.md)
+- [Namespace](/models/api/entities/namespace.md)
 ## parts:
-- [Property](/models/apiels/api/property.md)
+- [Property](/models/api/entities/property.md)
 ## attributes:
 - Name, text
 - Description, text

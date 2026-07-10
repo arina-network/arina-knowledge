@@ -1,6 +1,6 @@
 # entity Image
 ## implements: 
-- [Component](/models/uidels/ui/component.md)
+- [Component](/models/ui/entities/component.md)
 ## attributes:
 - Description, text
 - Data, image

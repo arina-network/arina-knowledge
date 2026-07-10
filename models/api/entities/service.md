@@ -1,8 +1,8 @@
 # entity Service
 ## containers:
-- [Namespace](/models/apiels/api/namespace.md)
+- [Namespace](/models/api/entities/namespace.md)
 ## parts:
-- [Method](/models/apiels/api/method.md)
+- [Method](/models/api/entities/method.md)
 ## attributes
 - Name, text
 - Description, text

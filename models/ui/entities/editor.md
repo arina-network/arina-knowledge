@@ -1,8 +1,8 @@
 # entity Editor
 - abstract
 ## implements: 
-- [Component](/models/uidels/ui/component.md)
+- [Component](/models/ui/entities/component.md)
 ## attributes:
-- [Title](/models/uidels/ui/title.md)
+- [Title](/models/ui/entities/title.md)
 - is Read Only, boolean
 - Value

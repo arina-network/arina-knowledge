@@ -2,7 +2,7 @@
 ## implements:
 - [Actor](/models/logic/entities/actor.md)
 ## containers:
-- [Database](/models/dbdels/db/database.md)
+- [Database](/models/db/entities/database.md)
 ## attributes:
 - Username, text, required
 - Password, password

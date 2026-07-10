@@ -1,6 +1,6 @@
 # entity Data Type
 ## implements:
-- [Class](/models/apiels/api/class.md)
+- [Class](/models/api/entities/class.md)
 ## attributes:
 - Name, text
 - Description, text

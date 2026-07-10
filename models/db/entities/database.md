@@ -4,10 +4,10 @@
 ## containers:
 - [Space](/models/world/entities/space.md)
 ## parts:
-- [Scheme](/models/dbdels/db/scheme.md)
-- [Table](/models/dbdels/db/table.md)
-- [View](/models/dbdels/db/view.md)
-- [User](/models/dbdels/db/user.md) 
+- [Scheme](/models/db/entities/scheme.md)
+- [Table](/models/db/entities/table.md)
+- [View](/models/db/entities/view.md)
+- [User](/models/db/entities/user.md) 
 ## attributes
 - Name, text
 - Description, text 

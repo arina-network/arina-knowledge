@@ -1,6 +1,6 @@
 # entity Help
 ## implements: 
-- [Structure](/core/Structure.md)
+- [Structure](/models/world/entities/structure.md)
 ## attributes:
 - Source, text
 - Url, url

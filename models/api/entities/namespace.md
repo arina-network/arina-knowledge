@@ -2,10 +2,10 @@
 ## implements:
 - [Space](/models/world/entities/space.md)
 ## containers:
-- [Namespace](/models/apiels/api/namespace.md)
+- [Namespace](/models/api/entities/namespace.md)
 ## parts:
-- [Namespace](/models/apiels/api/namespace.md)
-- [Service](/models/apiels/api/service.md)
+- [Namespace](/models/api/entities/namespace.md)
+- [Service](/models/api/entities/service.md)
 ## attributes
 - Name, text
 - Description, text 

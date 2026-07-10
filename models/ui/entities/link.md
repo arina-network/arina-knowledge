@@ -1,6 +1,6 @@
 # entity Link
 ## implements: 
-- [Component](/models/uidels/ui/component.md)
+- [Component](/models/ui/entities/component.md)
 ## attributes:
 - Title, text
 - Url, url
