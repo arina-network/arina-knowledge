@@ -1,5 +1,5 @@
 # What is Time? An Engineering Approach
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-08 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-08 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 ## Time is not a thing, it’s a survival mechanism
 

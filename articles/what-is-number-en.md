@@ -1,5 +1,5 @@
 # What is Number? A Mechanism for Compressing Reality
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-14 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-14 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 We treat numbers as abstract truths—clean, objective, detached from life. But a group of living creatures deciding whether to act does not use abstraction. It faces constraints:
 - limited time

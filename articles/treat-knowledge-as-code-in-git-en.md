@@ -1,5 +1,5 @@
 # Confluence and Notion are outdated. Treat Knowledge as Code in Git.
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-21 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-21 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 For years, tools like Confluence and Notion have defined how teams store and share knowledge. They promised a single source of truth, easy collaboration, and structured documentation. And for a while, they delivered. But the world has changed.
 

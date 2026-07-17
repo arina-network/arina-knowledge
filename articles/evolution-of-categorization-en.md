@@ -1,5 +1,5 @@
 # Adjectives and Adverbs: evolution of Categorization
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-17 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-17 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 We usually think of adjectives and adverbs as secondary elements of language — modifiers that decorate nouns and verbs. But from an evolutionary and technological perspective, they are something much more fundamental:
 > They are mechanisms for compressing, refining, and synchronizing our models of reality.

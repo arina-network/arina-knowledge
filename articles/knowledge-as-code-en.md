@@ -1,5 +1,5 @@
 # Knowledge as Code. In English. With Math.
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-27._
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-27 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 ## Why understanding should be executable, not just exist
 

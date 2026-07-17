@@ -1,5 +1,5 @@
 # Why LLMs suggest the “average” that doesn’t solve your problem
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-28 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-28 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 ## Statistics doesn’t work for a single case
 

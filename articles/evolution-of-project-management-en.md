@@ -1,5 +1,5 @@
 # The Evolution of Project Management: from Finite Plans to Living Systems
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-24 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-24 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 
 Project management did not start as a discipline of flexibility. It began as an attempt to control uncertainty by eliminating it. Over time, however, reality forced a different conclusion: uncertainty cannot be removed — it must be explored. This shift defines the evolution from Waterfall to Research.

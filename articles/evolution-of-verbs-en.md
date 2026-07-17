@@ -1,5 +1,5 @@
 # Evolution of Verbs: from Signals to Hierarchical Processes
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-18 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-18 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 Verbs are usually treated as a grammatical category — a way to describe actions, states, and events. But this view misses something deeper: verbs are not just linguistic elements, they are structures for representing change over time.
 

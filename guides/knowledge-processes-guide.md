@@ -1,4 +1,5 @@
 # Knowledge Processes Guide
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-07-08 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 ## Atomic process
 
