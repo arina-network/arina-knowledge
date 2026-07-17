@@ -1,5 +1,5 @@
 # What is Information? An Engineering Perspective
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-27 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-27 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 Most discussions about information start with communication, meaning, or mathematics. In everyday language, information means “knowledge.” In computer science it often means “data.” In Information Theory, introduced by Claude Shannon, information is defined as the reduction of uncertainty in messages.
 

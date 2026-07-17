@@ -1,5 +1,5 @@
 # What is Life? An Information Perspective
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-23 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-23 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 Life is often described in biological terms: cells, metabolism, DNA, evolution. But those descriptions are implementations, not the essence. If you zoom out, life looks less like chemistry and more like a particular way information behaves. From this perspective, life is a system that stores, replicates, transforms, and acts on information to sustain its own existence under constraints.
 

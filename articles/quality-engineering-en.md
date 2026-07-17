@@ -1,5 +1,5 @@
 # Quality Engineering is the future of Software Testing
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-15 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-03-15 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 For decades, software testing was treated as a distinct phase of development. Code was written first, then handed over to testers whose job was to verify whether it worked. This model worked reasonably well in slower development cycles, but modern software development has fundamentally changed the environment in which testing operates.
 

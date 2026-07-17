@@ -1,5 +1,5 @@
 # What is Communication? Cooperate to Survive
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-14 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-14 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 Communication is often described as the exchange of information. But that definition is too soft, too human-centered, and ultimately misleading. Communication did not emerge to “share ideas” or “express feelings.” It emerged because isolated creatures fail, and coordinated ones survive.
 

@@ -1,5 +1,5 @@
 # Evolution of Nouns: from Structures to Multi-Layered Reality
-_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-16 in [Arina Knowledge Guide](https://github.com/arina-network/arina-knowledge-guide)_
+_Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published 2026-04-16 in [Arina Knowledge](https://github.com/arina-network/arina-knowledge)_
 
 Language is not a passive reflection of reality. It is a tool humans use to build, stabilize, and share semantic models of the world. Within this toolset, nouns play a central role. A noun is a **syntax tool**: it allows an actor to fix a reference inside a model so it can be reused, communicated, and reasoned about.
 
