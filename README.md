@@ -1,7 +1,7 @@
 # knowledge Arina 
 _Created by [Arina Network](https://arina.network/)_
 
-## [Knowledge as Code](/articles/knowledge-as-code-en.md.md)
+## [Knowledge as Code](/articles/knowledge-as-code-en.md)
 
 Knowledge is Code. We already treat infrastructure as code, drawings as code, quality as code. Why not treat knowledge in the same way?
 
