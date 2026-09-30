@@ -3,21 +3,19 @@ _Created by [Arina Network](https://arina.network/)_
 
 ## [Knowledge as Code](/articles/knowledge-as-code-en.md)
 
-Knowledge is Code. We already treat infrastructure as code, drawings as code, quality as code. Why not treat knowledge in the same way?
+We already treat infrastructure as code, drawings as code, quality as code. Why not treat knowledge in the same way?
 
 We must describe:
 
-**Spaces**: everything happens somewhere.  
-**Structures**: everything happens with something.  
-**Time**: measures how things change.  
-**Processes**: describe what exactly happens.  
-**Actors**: observe, make decisions and act.
+- **Spaces**: everything happens somewhere.  
+- **Structures**: everything happens with something.  
+- **Time**: measures how things change.  
+- **Processes**: describe what exactly happens.  
+- **Actors**: observe, make decisions and act.
 
 Modern natural languages provide powerful, flexible ways to describe all these: spaces, structures, processes, and actors - including how they change over time, make decisions, and communicate. Semantic models are an open, technology-independent way to describe knowledge in a structured, human-friendly and machine-readable way. Because every concept and relationship is explicit, knowledge can be versioned, validated, searched, analyzed, and transformed into software systems.
 
-Using a Git repository as a knowledge base may sound unconventional at first, but it naturally provides many of the capabilities required to manage knowledge.
-
-When knowledge lives in Markdown files inside a Git repository, it automatically gains the same lifecycle as code:
+Using a Git repository as a knowledge base may sound unconventional at first, but it naturally provides many of the capabilities required to manage knowledge. When knowledge lives in Markdown files inside a Git repository, it automatically gains the same life-cycle as code:
 - **Version control**, changes are tracked.
 - **Branching**, improvements are incremental.
 - **Traceability**, history is preserved.
