@@ -18,16 +18,16 @@ But what if the most universal approach is to treat knowledge as code in natural
 What do we need for knowledge?
 
 **Spaces**: everything happens somewhere.  
-**Structures**: everything happens with something.  
+**Structures**: everything happens to or with something.  
 **Time**: measures how things change.  
 **Processes**: describe what exactly happens.  
 **Actors**: observe, make decisions and act.
 
 Modern natural languages provide powerful, flexible ways to describe all these: spaces, structures, processes, and actors - including how they change over time, make decisions, and communicate. 
 
-The simplest way to define an actor is through the  **OCA loop**: if something **Observes** - **Computes** - **Acts**, it is Actor. Most actors do not exist forever: they are born, live, and die. Others are designed and assembled, interact with the world, and are eventually destroyed.
+The simplest way to define an actor is through the  **OCA loop**: if something **Observes** - **Computes** - **Acts**, it is an Actor. Most actors do not exist forever: they are born, live, and die. Others are designed and assembled, interact with the world, and are eventually destroyed.
 
-People use word Energy to describe the ability to do something. We can say: if an actor has energy, it acts; otherwise, it dies. Energy can describe resources involved in physical or mental processes. Estimating it may be intuitive or may require advanced mathematics. In the business world, Money plays a similar role. A company can operate while it has sufficient financial resources; without them, it eventually goes bankrupt. Its internal processes consume money, while some external processes generate revenue.
+People use word Energy to describe the ability to do something. We can say: if an actor has energy, it can act; without enough energy, it eventually dies. Energy can describe resources involved in physical or mental processes. Estimating it may be intuitive or may require advanced mathematics. In the business world, Money plays a similar role. A company can operate while it has sufficient financial resources; without them, it eventually goes bankrupt. Its internal processes consume money, while some external processes generate revenue.
 
 Companies store knowledge about their businesses in knowledge bases, project management systems, cloud documents, emails and chats — millions of lines of text, thousands of images, hundreds of diagrams and videos. Part of this knowledge exists only as source code in different programming languages. Some exists only in the memory of the people who carry out  business processes every day.
 
@@ -46,7 +46,7 @@ Software engineers face the same problem. There is no final version of a system 
 
 The same is true for knowledge. It must be structured, and changes must be controlled. And it is much simpler than it may seem: just use the same techniques that software engineers have been using for many years. Treat knowledge as code.
 
-Let’s start with structure. Information must reflect the real world. It describes spaces, structures, processes and actors that are using time and energy.
+Let’s start with structure. Information must reflect the real world. It describes spaces, structures, processes and actors, including how they change over time and the resources required for them to act.
 
 A **Logical Data Structure** is well suited to representing spaces and structures. An Entity represents something in the real world, and its Attributes describe its important characteristics. Relations describe how it connects to other things in the real world in different ways.
 
@@ -60,14 +60,14 @@ If you write and use all these files yourself, you can store them on your laptop
 
 But what if every manager in your company writes their own version of the knowledge? How do you manage all these versions?
 
-Software engineers use different version control systems for this. One of the most widely used version control systems is **Git**, which is free and open source. Git is distributed — every engineer can work with the full project locally and then merge the result into a shared repository containing the actual version.
+Software engineers use different version control systems for this. **Git** is one of the most widely used version control systems, it's free and open source. Git is distributed — every engineer can work with the full project locally and then merge the result into a shared repository containing the actual version.
 
-Git works with text written in character-based language, making it well suited to storing and maintaining knowledge. **GitHub** hosts Git repositories in the cloud and provides three useful features:
+Git works with text written in character-based languages, making it well suited to storing and maintaining knowledge. **GitHub** hosts Git repositories in the cloud and provides three useful features:
 
-1. **Pull requests** — every time an engineer wants to merge changes into the main branch, they can ask other engineers to review the changes. This dramatically reduces the number of mistakes, misunderstandings and bad decisions.
+1. **Pull requests** — every time an engineer wants to merge changes into the main branch, they can ask other engineers to review the changes. This provides a structured way to review changes, discuss them, and catch mistakes before they are merged.
 2. **Project management** — you can organize work with changes in the classic project management way and naturally link changes with project issues.
 3. **Repositories and links** — knowledge can be split into logical repositories and connected with cross-links, while access can be managed through repository permissions. This makes it possible to avoid duplicating the same descriptions in different places.
 
-**Knowledge as Code** provides a way to describe reality as structured knowledge and manage its evolution with the same techniques used for software. There is no reason to continue treating knowledge in the old, unstructured, document-based way when it can be structured, versioned, reviewed and shared as code.
+**Knowledge as Code** provides a way to describe reality as structured knowledge and manage its evolution with the same techniques used for software. Knowledge does not have to remain in the old, unstructured, document-based form when it can be structured, versioned, reviewed and shared as code.
 
 You can find more details about Knowledge as Code in our public repository: https://github.com/arina-network/arina-knowledge
