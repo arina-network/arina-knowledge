@@ -15,7 +15,8 @@ Software succeeds when it accurately models reality, adapts to new information, 
 > Researching the real world and transforming this knowledge into reliable, maintainable, and evolving systems.
 
 ### Knowledge Engineering
-- [Knowledge as Code. In English. With Math.](/articles/knowledge-as-code-en.md)
+- [Knowledge as Code](/articles/knowledge-as-code-en.md)
+- [Knowledge as Code. In English. With Math.](/articles/knowledge-as-code-in-english-en.md)
 - [Knowledge Base as a GitHub Repository? Why Not!](/articles/knowledge-base-as-github-repository-en.md)
 - [Confluence and Notion are outdated. Treat Knowledge as Code in Git.](/articles/treat-knowledge-as-code-in-git-en.md)
 
