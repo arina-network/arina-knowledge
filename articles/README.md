@@ -11,6 +11,7 @@ Rather than treating communication as abstract information exchange, this approa
 
 ### Intelligence
 - [Knowledge as Code](/articles/knowledge-as-code-en.md)
+- [What Is Life? An Engineering Approach](/articles/what-is-life-engineering-approach-en.md)
 
 ### Natural Language
 - [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
