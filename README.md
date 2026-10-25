@@ -9,9 +9,10 @@ We must describe:
 
 - **Spaces**: everything happens somewhere.  
 - **Structures**: everything happens with something.  
-- **Time**: measures how things change.  
 - **Processes**: describe what exactly happens.  
 - **Actors**: observe, make decisions and act.
+- **Time**: measures how things change.
+- **Energy**: estimate, what can happen. 
 
 Modern natural languages provide powerful, flexible ways to describe all these: spaces, structures, processes, and actors - including how they change over time, make decisions, and communicate. Semantic models are an open, technology-independent way to describe knowledge in a structured, human-friendly and machine-readable way. Because every concept and relationship is explicit, knowledge can be versioned, validated, searched, analyzed, and transformed into software systems.
 
@@ -25,9 +26,7 @@ Using a Git repository as a knowledge base may sound unconventional at first, bu
 ## [Articles](/articles)
 
 ### Knowledge Engineering
-- [Knowledge as Code. In English. With Math.](/articles/knowledge-as-code-in-english-en.md.md)
-- [Knowledge Base as a GitHub Repository? Why Not!](/articles/knowledge-base-as-github-repository-en.md)
-- [Confluence and Notion are outdated. Treat Knowledge as Code in Git.](/articles/treat-knowledge-as-code-in-git-en.md)
+- [Knowledge as Code](/articles/knowledge-as-code-en.md)
 
 ### Semantic Models
 - [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
