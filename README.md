@@ -28,7 +28,8 @@ Using a Git repository as a knowledge base may sound unconventional at first, bu
 ### Knowledge Engineering
 - [Knowledge as Code](/articles/knowledge-as-code-en.md)
 - [What Is Life? An Engineering Approach](/articles/what-is-life-engineering-approach-en.md)
-- [Information vs Data vs Knowledge](/articles/information-data-knowledge.md)
+- [Information vs Data vs Knowledge](/articles/information-data-knowledge-en.md)
+- [Knowledge and Energy](/articles/knowledge-and-energy-en.md)
 
 ### Semantic Models
 - [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
