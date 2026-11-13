@@ -14,7 +14,8 @@ Rather than treating communication as abstract information exchange, this approa
 
 ### Intelligence
 - [What Is Life? An Engineering Approach](/articles/what-is-life-engineering-approach-en.md)
-- [Information vs Data vs Knowledge](/articles/information-data-knowledge.md)
+- [Information vs Data vs Knowledge](/articles/information-data-knowledge-en.md)
+- [Knowledge and Energy](/articles/knowledge-and-energy-en.md)
 
 ### Natural Language
 - [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
