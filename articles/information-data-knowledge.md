@@ -6,7 +6,7 @@ _Author [Slava Zemlianskyi](https://www.linkedin.com/in/zemlianskyi/), published
 A few years ago, we bought our first projector.
 Naturally, the first thing I did was set it up in the kitchen, point it at the nearest wall, and start watching YouTube.
 One of the videos featured dogs dancing.
-Hunter, my cat, loves playing with dogs in the park. So, when he saw a dog on the screen, he immediately started jumping toward it.
+Hunter, my cat, loves playing with dogs in the park. So, when he saw a dog projected onto the wall, he immediately started jumping toward it.
 
 Unfortunately, there was nothing there but a wall.
 
@@ -54,14 +54,14 @@ It can also be artificially generated as electrical signals and stored somewhere
 
 
 In the kitchen, there is also data.
-The projector receives a structured stream of bits in a format used by YouTube and converts it into an image displayed on the wall. **Data** is a structured sequence of physical states representing signals, stored in some physical medium or device.
+The projector receives a structured stream of bits in a format used by YouTube and converts it into an image displayed on the wall. **Data** is a structured sequence of physical states representing signals, stored or transmitted in some physical medium or device.
 
 Can data exist without information? Yes. 
 
 We can take a data structure and randomly generate values that conform to that structure. 
 Is it data? Certainly. It has the required structure. 
 Is it information? No.
-The generated values have no correlation with anything they are supposed to describe, they carry no information about that something.
+The generated values have no correlation with anything they are supposed to describe: they carry no information.
 
 There is a relationship between the world, its elements, and the information we receive about them. This correlation allows our brains to build a model of the world and of the things that exist within it.
 Without such a correlation, we may have data, but we have no information about the world.
@@ -71,7 +71,7 @@ Without such a correlation, we may have data, but we have no information about t
 Knowledge always exists in the form of information or data.
 Also, like everything else, it exists as physical elements of our universe.
 But knowledge is not simply a record of something that has some connection to real-world processes. 
-**Knowledge** is a model of a world that we have tested through repeated interactions with the real world.
+**Knowledge** is a model of the world that we have tested through repeated interactions with the real world.
 
 Hunter's experience illustrates this particularly well: even very similar information can lead to different conclusions depending on the context and the knowledge used to interpret it. 
 When Hunter sees a dog in the park, he understands that it is a living animal he can play with.
@@ -97,4 +97,4 @@ Through experience, he learned to distinguish images from real animals.
 Information gives us signals about the world. 
 Data provides a structured representation of signals. 
 Knowledge is a tested model of the world that helps us understand the world around us, build a model of reality, and act effectively within it. 
-OCA loop is what allows that model to evolve through interaction with reality.
+The OCA loop is what allows that model to evolve through interaction with reality.
