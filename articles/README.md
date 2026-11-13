@@ -1,17 +1,20 @@
 # Arina Knowledge Articles
 _Created by [Arina Network](https://arina.network/)_
 
-## Communication Theory: Cooperate to Survive
+## Communication Theory v9: Cooperate to Survive
 
-**"Communication Theory: Cooperate to Survive"** views communication through the lens of evolution, as a process shaped by the need for groups of live creatures to survive in a complex and dangerous world.
+**"Communication Theory v9: Cooperate to Survive"** views communication through the lens of evolution, as a process shaped by the need for groups of live creatures to survive in a complex and dangerous world.
 
-It focuses on how communication mechanisms — from primitive chemical signals to language and symbolic systems—emerged as tools that allow creatures to align their internal models of reality and synchronize their actions in time.
+It focuses on how communication mechanisms, from primitive chemical signals to language and symbolic systems, emerged as tools that allow creatures to align their internal models of reality and synchronize their actions in time.
 
-Rather than treating communication as abstract information exchange, this approach describes it as a set of practical, evolving instruments that enable cooperation, coordination, and ultimately the survival and competitiveness of groups. 
+Rather than treating communication as abstract information exchange, this approach describes it as a set of practical, evolving instruments that enable cooperation, coordination, and ultimately the survival and competitiveness of groups of live creatures. 
+
+### Introduction
+- [Knowledge as Code](/articles/knowledge-as-code-en.md)
 
 ### Intelligence
-- [Knowledge as Code](/articles/knowledge-as-code-en.md)
 - [What Is Life? An Engineering Approach](/articles/what-is-life-engineering-approach-en.md)
+- [Information vs Data vs Knowledge](/articles/information-data-knowledge.md)
 
 ### Natural Language
 - [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
