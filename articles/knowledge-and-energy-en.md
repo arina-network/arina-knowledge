@@ -55,7 +55,7 @@ Some mice are better at making these distinctions than others.
 Those that do it well are more likely to survive and reproduce. 
 Those that do not are eventually likely to become prey for a wild cat.
 
-## can Mouse survive without its sight and hearing?
+## Can a Mouse survive without its sight and hearing?
 
 Imagine an experiment: what would happen if a mouse lost both its sight and hearing?
 Would it still be able to survive?
@@ -80,7 +80,7 @@ It is this ability to perceive and interpret the surrounding world that allows o
 
 In an imaginary world, every action performed by a living organism might lead to obtaining food. In the real world, however, most actions that are not based on knowledge result in energy loss or, in some cases, death.
 
-## What a mouse know about itself?
+## What does a Mouse know about itself?
 
 In addition to knowledge about the external world, a mouse also needs knowledge about its own body.
 
@@ -109,4 +109,4 @@ Knowledge is a tool developed through evolution to dramatically increase a live 
 The world is full of processes, but only some of them are beneficial to a living organism.
 Many others are irrelevant, dangerous, or even fatal.
 
-Knowledge allows a live creature to distinguish between these processes, identify opportunities, recognize threats, and choose actions that improve its chances of survival with relativly low cost, gathering enough energy.
+Knowledge allows a living creature to distinguish between these processes, identify opportunities, recognize threats, and choose actions that improve its chances of survival with relatively low cost, gathering enough energy.
