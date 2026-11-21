@@ -15,6 +15,7 @@ Rather than treating communication as abstract information exchange, this approa
 ### Intelligence
 - [What Is Life? An Engineering Approach](/articles/what-is-life-engineering-approach-en.md)
 - [Information vs Data vs Knowledge](/articles/information-data-knowledge.md)
+- [Why do we need a Language?](/articles/why-do-we-need-a-language-en.md)
 
 ### Natural Language
 - [Evolution of Nouns: from Structures to Multi-Layered Reality](/articles/evolution-of-nouns-en.md)
@@ -28,7 +29,7 @@ Rather than treating communication as abstract information exchange, this approa
 - [What is Energy? An Evolutionary View](/articles/what-is-energy-en.md)
 - [What is Number? A Mechanism for Compressing Reality](/articles/what-is-number-en.md)
 
-### Artificial Intelligence Research
+### Artificial Life Research
 - [Evolutionary Method of Constructing Artificial Intelligence Systems](https://link.springer.com/article/10.1007/s10559-019-00106-x)
 - [Influence of Language on the Lifespan of Populations of Artificial Intelligence](https://link.springer.com/article/10.1007/s10559-021-00392-4)
 
